@@ -7,6 +7,13 @@
 /pkg/
 /spec/reports/
 /tmp/
+/mkmf.log
 
+# Ruby
 .ruby-version
 .ruby-gemset
+
+# Rust
+/ext/parallel_sort/target
+/ext/parallel_sort/Cargo.lock
+/lib/*.so
