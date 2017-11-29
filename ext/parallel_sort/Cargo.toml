@@ -7,3 +7,5 @@ authors = ["Dmitry Gritsay <unseductable@gmail.com>"]
 crate-type = ["cdylib"]
 
 [dependencies]
+rayon = "0.9.0"
+ruru = "0.9.3"
